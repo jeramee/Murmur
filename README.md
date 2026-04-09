@@ -4,6 +4,8 @@ Murmur is a language disguised as procedure, and a procedure disguised as notes.
 
 It is a Markdown-and-YAML-based programming system where executable intent lives in human-readable documents instead of being buried inside a large opaque runtime.
 
+Murmur is built on a dangerous idea: you do not need polished syntax, elite credentials, or priest-level computer science rituals to make software move. You just need to produce actionable intent with a low enough nonsense-to-signal ratio that reality starts obeying you.
+
 Murmur should feel unclear in the best possible way at first glance: half to-do list, half ritual, half program. The runtime stays small. The documents carry the meaning.
 
 ## What Murmur is
@@ -105,8 +107,16 @@ This repository contains a starter implementation in Python. It is intentionally
 ## Running the prototype
 
 ```bash
-python3 runtime/murmur.py examples/greet_visitor.murmur.md --input visitor=Milord --input mood=awake
+python3 runtime/murmur.py examples/greet_visitor.murmur.md --input visitor=Milord --input formal=true --input mood=awake
 ```
+
+The Python prototype now covers a compact v0.1-ish slice of the language:
+
+- value work: `weave`, `distill`
+- visible output and persistence: `utter`, `write`, `store`, `witness`
+- explicit intake and control flow: `heed`, `choose`, `repeat`, `refrain`
+
+Examples that exercise those commands live in `examples/`, including `repeat_chorus.murmur.md` and `refrain_guard.murmur.md`.
 
 ## Murmur in one line
 
