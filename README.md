@@ -9,7 +9,7 @@ It is a Markdown-and-YAML-based programming system where executable intent lives
 
 Murmur should feel unclear in the best possible way at first glance: half to-do list, half ritual, half program. The runtime stays small. The documents carry the meaning.
 
-Murmur is built on a dangerous idea: you do not need polished syntax, elite credentials, or priest-level computer science rituals to make software move. You just need to produce actionable intent with a low enough nonsense-to-signal ratio that reality starts obeying you. You road the short bus to school; well my friend you are in luck because you can still become a millionaire and possibly even billionaire just by Murmuring non-nonsensical BS!
+Murmur is built on a dangerous idea: you do not need polished syntax, elite credentials, or priest-level computer science rituals to make software move. You just need to produce actionable intent with a low enough nonsense-to-signal ratio that reality starts obeying you. You road the short bus to school; well my friend you are in luck because you can still become a millionaire and maybe even a billionaire just by Murmuring non-nonsensical BS!
 
 Start crushing it today, take your vibe coding to the next level, and leave your ops in the dust with Murmur!
 
