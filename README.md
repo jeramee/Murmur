@@ -11,7 +11,7 @@ Murmur should feel unclear in the best possible way at first glance: half to-do 
 
 Murmur is built on a dangerous idea: you do not need polished syntax, elite credentials, or priest-level computer science rituals to make software move. You just need to produce actionable intent with a low enough nonsense-to-signal ratio that reality starts obeying you. You road the short bus to school; well my friend you are in luck because you can still become a millionaire and possibly even billionaire just by Murmuring non-nonsensical BS!
 
-Start crushing it today, take your vibe coding to the next level and leave your ops in the dust with Murmur!
+Start crushing it today, take your vibe coding to the next level, and leave your ops in the dust with Murmur!
 
 ## What Murmur is
 
