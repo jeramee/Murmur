@@ -120,8 +120,9 @@ The Python prototype now covers a compact v0.1-ish slice of the language:
 - value work: `weave`, `distill`
 - visible output and persistence: `utter`, `write`, `store`, `witness`
 - explicit intake and control flow: `heed`, `choose`, `repeat`, `refrain`
+- integration boundary: `invoke` for explicit surface adapters such as loop, settings, and calendar
 
-Examples that exercise those commands live in `examples/`, including `repeat_chorus.murmur.md` and `refrain_guard.murmur.md`.
+Examples that exercise those commands live in `examples/`, including `repeat_chorus.murmur.md`, `refrain_guard.murmur.md`, and `integration_status.murmur.md`.
 
 ## Murmur in one line
 

@@ -161,6 +161,8 @@ Minimum well-known scopes:
 - local step outputs: values previously bound by `into`
 - runtime context, if exposed, under implementation-defined namespaces
 
+Prototype note: the starter Python runtime currently exposes `inputs.*`, `meta.*`, `${steps.some_id.output}`, and local variables bound with `into`.
+
 A reference like `${inputs.visitor}` reads from the environment.
 
 A write target like `into: greeting` binds a new local value named `greeting`.
