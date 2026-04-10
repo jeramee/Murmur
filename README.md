@@ -1,6 +1,6 @@
 # Murmur
 
-Murmur is a language disguised as procedure, and a procedure disguised as notes.
+Murmur is a language disguised as procedure, and a procedure disguised as notes. (Technically, it's a DSL.)
 
 It is the mumble rap of programming: a deliberately blurred medium where code, intent, automation, and half-finished thought slur together into something strangely executable. It lives in the space between language, workflow, and invocation, where planning, prompting, scripting, and execution start to sound like the same song. 
 
